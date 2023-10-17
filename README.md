@@ -2,7 +2,7 @@
 
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&color=%2303A062&size=25&duration=3500&multiline=true&lines=Salesforce+developer+at+Barclays;Third+year+apprentice;Studying+at+the+University+of+Glasgow&height=115&width=750">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&color=%2303A062&size=25&duration=3500&multiline=true&lines=Salesforce+developer+at+Barclays;Fourth+year+apprentice;Studying+at+the+University+of+Glasgow&height=115&width=750">
 <p>
 
 ## libraries
